@@ -10,4 +10,4 @@ The first laboratory exercise was more theoretical and dealt with the applicatio
 
 The second laboratory exercise involved finding out the distance of a metal sheet using an FMCW radar, and the speed of a metal sheet using a CW radar.
 
-Implementing the final project meant developing a script that would take the raw data (of a metal can in front of a GB-SAR) and run it through a student's implementation of the Omega-K algorithm, thus having a reconstructed image as the output.
+Implementing the final project meant developing a script that would take the raw data (of a metal can in front of a GB-SAR) and running it through a student's own implementation of the Omega-K algorithm, thus having a reconstructed image as the output.
